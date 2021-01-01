@@ -1,2 +1,2 @@
 # linear-regression
-This repo is meant to be for my linear regression projects.
+This repo is meant for my linear regression projects.
