@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ef5de7-00e7-4689-b5df-ba91e4e03ac5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deneme.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression_car_prices.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3ef5de7-00e7-4689-b5df-ba91e4e03ac5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609620613538</updated>
-      <workItem from="1609620618493" duration="15066000" />
+      <workItem from="1609620618493" duration="15128000" />
     </task>
     <servers />
   </component>
